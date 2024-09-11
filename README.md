@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaEranosyan
-- 👀 I’m interested in learning data analytics/data science
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested in learning data analytics/data science/ML
+- 🌱 I’m currently learning SQL, Python, ML algorithms
 - 💞️ I want to create my portfolio here - will be grateful for some feedback in future
 
 <!---
